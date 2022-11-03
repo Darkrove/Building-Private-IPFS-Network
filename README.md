@@ -57,7 +57,7 @@ By default, IPFS use the following ports:
     
     ![Untitled](https://user-images.githubusercontent.com/53792139/199661452-213012a8-c19a-4f2e-8416-9d698517f02b.png)
     
-11. Now we have to access VM via CMD (command line) so for this, click on node-00 and statistics about node 00 will be displayed node make sure node-00 is turn on and it’s running if in your case it is off then toggle the button to turn on. Now click on console.
+11. Now we have to access VM via CMD (command line) so for this, click on node-00 and statistics about node 00 will be displayed, make sure node-00 is turn on and it’s running if in your case it is off then toggle the button to turn on. Now click on console.
     
     ![Untitled](https://user-images.githubusercontent.com/53792139/199661546-b792b0d8-a0d7-46ce-8f2f-5e40444da03a.png)
     
