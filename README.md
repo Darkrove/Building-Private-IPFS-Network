@@ -109,7 +109,7 @@ By default, IPFS use the following ports:
     `ipfs init`
 22. Remove bootstrap from all nodes: 
     
-    `ipfs bootstrap rm -all`
+    `ipfs bootstrap rm --all`
 23. Now change IPFS configuration as follows:
     
     ```java
